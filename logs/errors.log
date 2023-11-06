@@ -1,0 +1,33 @@
+11-06 14:12:51 | Cannot access offset of type string on string
+11-06 14:13:43 | Cannot access offset of type string on string
+11-06 14:13:53 | Cannot access offset of type string on string
+11-06 14:14:25 | Cannot access offset of type string on string
+11-06 14:14:53 | Cannot access offset of type string on string
+11-06 14:16:10 | Cannot access offset of type string on string
+11-06 14:31:55 | Call to undefined method App\Controllers\IndexController::socondTask()
+11-06 14:33:42 | Call to undefined method App\Controllers\IndexController::socondTask()
+11-06 14:33:47 | Call to undefined method App\Controllers\IndexController::socondTask()
+11-06 14:34:43 | Call to undefined method App\Controllers\IndexController::firstTtask()
+11-06 14:55:56 | Call to undefined method App\Controllers\IndexController::firstTtask()
+11-06 14:57:36 | Call to undefined method App\Controllers\IndexController::firstTtask()
+11-06 14:58:01 | Call to undefined method App\Controllers\IndexController::firstTtask()
+11-06 14:58:15 | Call to undefined method App\Controllers\IndexController::firstTtask()
+11-06 14:58:25 | Call to undefined method App\Controllers\IndexController::firstTtask()
+11-06 16:05:35 | Class "App\AbstractController" not found
+11-06 16:06:13 | Class "App\AbstractController" not found
+11-06 16:06:34 | Call to private App\Database::__construct() from scope App\Repositories\AbstractRepository
+11-06 16:14:10 | Class "App\Controllers\GoodRepository" not found
+11-06 16:47:58 | Call to undefined method App\Repositories\UserRepository::getAllUsers()
+11-06 17:01:31 | Call to undefined method App\Services\UserService::getAllPosition()
+11-06 17:01:44 | Call to undefined method App\Services\UserService::getAllPosition()
+11-06 17:02:07 | Call to undefined method App\Services\PositionService::getAllPosition()
+11-06 18:42:52 | Class "App\Controllers\UserValidation" not found
+11-06 18:43:43 | Class "App\Controllers\UserValidation" not found
+11-06 20:14:01 | Call to undefined method App\Controllers\ApiUsersController::update()
+11-06 20:23:44 | Error Validate Request
+11-06 20:24:56 | Error Validate Request
+11-06 20:26:29 | Error Validate Request
+11-06 20:26:49 | Error Validate Request
+11-06 20:49:23 | App\Services\UserService::deleteUser(): Argument #1 ($id) must be of type array, null given, called in /home/sbk/Applications/test.io/app/Controllers/ApiUsersController.php on line 35
+11-06 20:50:29 | Error Validate Request
+11-06 20:50:34 | Error. The id must be pressent.
